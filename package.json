@@ -1,0 +1,11 @@
+{
+  "name": "devwise-bruno",
+  "version": "1.0.0",
+  "description": "Welcome to the DevWise Bruno repository! This is my personal blog, where I share my journey as a full stack developer and share content related to technology and front-end development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Paulon",
+  "license": "ISC"
+}
